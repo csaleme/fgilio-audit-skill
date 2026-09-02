@@ -1,0 +1,9 @@
+{
+  "name": "fgilio-audit",
+  "description": "Audit-only search for materially useful simplifications in a diff, branch, project, or multi-repo feature. Based on Aaron Francis's \"Audit your codebase\" prompt.",
+  "author": {
+    "name": "Franco Gilio"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/fgilio/fgilio-audit-skill"
+}
