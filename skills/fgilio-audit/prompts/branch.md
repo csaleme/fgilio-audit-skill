@@ -91,7 +91,7 @@ For every recommendation, provide:
 8. Existing and additional validation required.
 9. Confidence: high, medium, or low.
 
-10. Validate and synthesize
+3. Validate and synthesize
 
 The coordinator must independently verify every finding against the current branch and its diff before accepting it.
 

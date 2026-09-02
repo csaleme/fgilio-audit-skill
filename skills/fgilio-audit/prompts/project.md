@@ -68,7 +68,7 @@ For every recommendation, provide:
 7. Existing and additional validation required.
 8. Confidence: high, medium, or low.
 
-9. Validate and synthesize
+3. Validate and synthesize
 
 The coordinator must independently verify every finding against the current repository before accepting it.
 

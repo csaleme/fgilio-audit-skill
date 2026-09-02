@@ -144,7 +144,7 @@ For every recommendation, provide:
 10. Existing and additional validation required.
 11. Confidence: high, medium, or low.
 
-12. Review the feature end-to-end
+3. Review the feature end-to-end
 
 After the bounded reviews, independently trace the feature through all participating projects.
 
