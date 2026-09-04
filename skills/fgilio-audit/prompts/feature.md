@@ -1,3 +1,10 @@
+<!--
+Derived from "Audit your codebase" by Aaron Francis (https://aaronfrancis.com).
+Gist: https://gist.github.com/aarondfrancis/8735edbe48532f97ee5ea818db4dbd47
+This file rescopes his prompt to one feature across several repositories.
+Full provenance: ../reference.md
+-->
+
 Audit the complete feature implementation across the current branches and their corresponding pull requests for materially useful simplifications in data structures, state representation, control flow, algorithms, ownership, and cross-project design.
 
 This is an audit-only exercise. Do not edit files, run tests, implement recommendations, commit, or push. Read-only inspection commands are allowed.

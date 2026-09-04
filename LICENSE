@@ -19,3 +19,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+THIRD-PARTY NOTICE
+
+The audit prompts in skills/fgilio-audit/prompts/ derive from "Audit your
+codebase" by Aaron Francis (https://aaronfrancis.com), published at
+https://gist.github.com/aarondfrancis/8735edbe48532f97ee5ea818db4dbd47.
+prompts/project.md reproduces that prompt verbatim; prompts/branch.md and
+prompts/feature.md rescope it. That text is (c) Aaron Francis, is used here
+with attribution, and is not covered by the MIT grant above. See
+skills/fgilio-audit/reference.md for per-file provenance.

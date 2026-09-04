@@ -1,3 +1,10 @@
+<!--
+Derived from "Audit your codebase" by Aaron Francis (https://aaronfrancis.com).
+Gist: https://gist.github.com/aarondfrancis/8735edbe48532f97ee5ea818db4dbd47
+This file is his prompt, verbatim; only this comment was added.
+Full provenance: ../reference.md
+-->
+
 Audit this entire codebase for materially useful simplifications in its data structures, state representation, control flow, algorithms, and ownership.
 
 This is an audit-only exercise. Do not edit files, run tests, implement recommendations, commit, or push. Read-only inspection commands are allowed.

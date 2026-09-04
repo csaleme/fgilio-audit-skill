@@ -1,3 +1,10 @@
+<!--
+Derived from "Audit your codebase" by Aaron Francis (https://aaronfrancis.com).
+Gist: https://gist.github.com/aarondfrancis/8735edbe48532f97ee5ea818db4dbd47
+This file rescopes his prompt to a branch and its PR.
+Full provenance: ../reference.md
+-->
+
 Audit the current branch and its pull request for materially useful simplifications in the code introduced or materially affected by this PR, focusing on data structures, state representation, control flow, algorithms, and ownership.
 
 This is an audit-only exercise. Do not edit files, run tests, implement recommendations, commit, or push. Read-only inspection commands are allowed.

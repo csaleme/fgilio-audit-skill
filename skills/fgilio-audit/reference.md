@@ -11,4 +11,6 @@ The three audit prompts in `prompts/` derive from **"Audit your codebase"** by A
 | `prompts/branch.md` | Aaron's prompt rescoped to the current branch and its PR: the diff becomes the source of truth for scope; surrounding code may be inspected but never turns into repo-wide cleanup. |
 | `prompts/feature.md` | Aaron's prompt rescoped to one feature spanning several repositories (one PR each). Review areas may cross repository boundaries so that mismatched state models, duplicated business rules, unsafe rollout assumptions, and unclear contract ownership are not missed. |
 
+Every file in `prompts/` opens with an HTML attribution comment naming Aaron and linking the gist, so a prompt stays credited when it is copied out on its own. The comment is the only addition to `prompts/project.md`; its prompt text is unchanged.
+
 The `branch` and `feature` variants were produced with ChatGPT from Aaron's original. Only edit: the feature variant says "the PRs" instead of "the four PRs", so the repository count is a parameter.
